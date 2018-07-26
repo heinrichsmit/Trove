@@ -1,2 +1,2 @@
-# trove
+# Trove
 Simple IT Inventory Management Software
